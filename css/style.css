@@ -1,0 +1,25 @@
+body{
+    background-color: #4F696A;
+}
+div{
+    background-color: #102020;
+    color: #D5DFE1;
+    width: 540px;
+    height: 650px;
+    text-align: center;
+    white-space: pre;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left: calc(50% - 270px);
+    font-size: 20px;
+}
+.lorem{
+    font-size: small;
+}
+h2{
+    font-size: larger;
+}
+img{
+    width: 170px;
+}
